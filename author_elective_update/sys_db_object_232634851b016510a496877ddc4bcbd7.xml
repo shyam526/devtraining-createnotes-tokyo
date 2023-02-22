@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Note</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_createnotes_note</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-14 11:38:48</sys_created_on>
+        <sys_id>232634851b016510a496877ddc4bcbd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Createnotes Note</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_db_object_232634851b016510a496877ddc4bcbd7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-14 11:38:48</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>801d1a0fdb8d3b0849eac5970596196d</instance_id>
+        <instance_name>dev84583</instance_name>
+        <name>sys_db_object_232634851b016510a496877ddc4bcbd7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Note</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_createnotes_note</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-14 11:38:48</sys_created_on><sys_id>232634851b016510a496877ddc4bcbd7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Createnotes Note</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sys_db_object_232634851b016510a496877ddc4bcbd7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-14 11:38:48</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1481899116</payload_hash>
+        <record_name>Note</record_name>
+        <reverted_from/>
+        <source>cc36eb601b4de110a496877ddc4bcb94</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-13 11:10:49</sys_created_on>
+        <sys_id>bb2674851b016510a496877ddc4bcb36</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1864a7862a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table</type>
+        <update_guid>7b26748574016510e5803b4c46c5cd36</update_guid>
+        <update_guid_history>7b26748574016510e5803b4c46c5cd36:1481899116</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-22 05:01:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0cfce99d7bf8400d892bc28754d934d9</sys_id>
+        <sys_metadata>232634851b016510a496877ddc4bcbd7</sys_metadata>
+        <sys_name>Note</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sys_db_object_232634851b016510a496877ddc4bcbd7</sys_update_name>
+        <sys_update_version display_value="sys_db_object_232634851b016510a496877ddc4bcbd7">bb2674851b016510a496877ddc4bcb36</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
